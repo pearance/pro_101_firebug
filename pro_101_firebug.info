@@ -1,5 +1,5 @@
 name = "Pro 101 Firebug"
-description = "WARNING: Incompatible with AJAX modal pop-ups! Use with caution on production sites!"
+description = "WARNING: Incompatible w/ AJAX pop-ups!"
 core = "7.x"
 package = "Pro 101 Development (G)"
 version = "7.x-1.0"
