@@ -1,7 +1,7 @@
 name = "Pro 101 Firebug"
 description = "WARNING: Incompatible w/ AJAX pop-ups!"
 core = "7.x"
-package = "Pro 101 Support (G)"
+package = "Pro 101 Development (G)"
 version = "7.x-1.0"
 project = "pro_101_firebug"
 dependencies[] = "drupalforfirebug"
